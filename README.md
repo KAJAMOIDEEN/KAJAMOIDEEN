@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Software Engineer**
 
-- 🌱 I’m currently learning **Cloud Services**
+- 🌱 I’m currently learning **New Technologies**
 
 - 👨‍💻 All of my projects are available at [https://kajamoideen.vercel.app/](https://kajamoideen.vercel.app/)
 
