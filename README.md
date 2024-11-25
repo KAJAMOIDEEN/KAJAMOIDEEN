@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm Kajamoideen Abbas</h1>
-<h3 align="left">I am human who love technology , nature and camera 📷.</h3>
+<h3 align="left">An Interesting Software Engineer...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="venkateeshh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAJAMOIDEEN&label=Profile%20views&color=0e75b6&style=flat" alt="KAJAMOIDEEN" /> </p>
 
 - 🔭 I’m currently working on **MERN stack**
 
