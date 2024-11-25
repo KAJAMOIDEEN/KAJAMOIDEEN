@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KAJAMOIDEEN&label=Profile%20views&color=0e75b6&style=flat" alt="KAJAMOIDEEN" /> </p>
 
-- 🔭 I’m currently working on **MERN stack**
+- 🔭 I’m currently working as **Software Engineer**
 
 - 🌱 I’m currently learning **Cloud Services**
 
 - 👨‍💻 All of my projects are available at [https://kajamoideen.vercel.app/](https://kajamoideen.vercel.app/)
 
-- 💬 Ask me about **React, MongoDB, JAVA Etc.**
+- 💬 Ask me about **Java, MYSQL, Springboot Etc.**
 
 - 📫 How to reach me **kajamoideenkj@gmail.com**
 
