@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm Kajamoideen Abbas</h1>
+<h3 align="left">I am human who love technology , nature and camera 📷.</h3>
 
-<!--
-**KAJAMOIDEEN/KAJAMOIDEEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="venkateeshh" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **MERN stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Cloud Services**
+
+- 👨‍💻 All of my projects are available at [https://kajamoideen.vercel.app/](https://kajamoideen.vercel.app/)
+
+- 💬 Ask me about **React, MongoDB, JAVA Etc.**
+
+- 📫 How to reach me **kajamoideenkj@gmail.com**
+
+- ⚡ Fun fact **Fly with Memories **
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kajamoideenkj) 
+
+# 💻 Tech Stack:
+
+---
