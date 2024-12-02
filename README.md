@@ -16,11 +16,11 @@
 - ⚡ Fun fact **Fly with Memories **
 
 ## My Technical Skills
-- **Backend:** `ASP.NET Core` `Web API` `MVC` `Entity Framework` `RDLC` `HTML-PDF Report`
-- **Frontend:** `ReactJS` `Next.js` `jQuery` `Tailwind CSS` `Bootstrap 5` `SCSS` | `WinForms` `Java Swing`
-- **Database:** `Microsoft SQL Server` `Oracle Database` | `Stored Procedure` `PL/SQL`
-- **Others:** `Git` `GitHub` `Jira` `UI/UX Design` `Figma` `Adobe XD` `Illustrator` `Photoshop` `Premiere Pro` `Cloudflare`
-- **Familiar With:** `Microservices` `Docker` `Azure DevOps` `Linux` `Shell Script` `Spring Boot` `NestJS` `PHP`
+- **Backend:** `C` `C++` `Java` `Python` `NodeJS` `PHP`
+- **Frontend:** `HTML5` `CSS3` `JavaScript` `jQuery` `Bootstrap 5` `ReactJS` 
+- **Database:** `Spring Boot` `Microservices` `MVC architecture` `Junit` `Django` `ExpressJS`
+- **Frameworks:** `Microsoft SQL Server` `Oracle Database` `phpMyAdmin Database` `MongoDB`| `Stored Procedure` `PL/SQL` 
+- **Technologies:** `Git` `GitHub` `Jira` `UI/UX Design` `Figma` `Docker` `AWS` `Servlets` `Linux` `JSP` `JDBC` `EJB`  
 
 <p align="center">
     <a href="">
