@@ -15,9 +15,11 @@
 
 - ⚡ Fun fact **Fly with Memories **
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kajamoideenkj) 
 
-# 💻 Tech Stack:
+<p align="center">
+    <a href="">
+        <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=KAJAMOIDEEN&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=0093FF&ring=0093FF&background=0D1117&currStreakLabel=0093FF&border=30363D"/>
+    </a>
+</p>
 
 ---
