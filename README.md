@@ -22,6 +22,11 @@
 - **Frameworks:** `Microsoft SQL Server` `Oracle Database` `phpMyAdmin Database` `MongoDB`| `Stored Procedure` `PL/SQL` 
 - **Technologies:** `Git` `GitHub` `Jira` `ServiceNow` `Docker` `AWS` `Servlets` `Linux` `JSP` `JDBC` `EJB`  
 
+## Reach Me
+- **Website:** [kajamoideen.vercel.app](https://kajamoideen.vercel.app/)
+- **Email:** kajamoideenkj@gmail.com / kajamoideenkj@gmail.com
+- **LinkedIn** [in/kajamoideenkj/](https://linkedin.com/in/kajamoideenkj/)
+  
 <p align="center">
     <a href="">
         <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com?user=KAJAMOIDEEN&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=0093FF&ring=0093FF&background=0D1117&currStreakLabel=0093FF&border=30363D"/>
