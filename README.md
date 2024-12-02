@@ -20,7 +20,7 @@
 - **Frontend:** `HTML5` `CSS3` `JavaScript` `jQuery` `Bootstrap 5` `ReactJS` 
 - **Database:** `Spring Boot` `Microservices` `MVC architecture` `Junit` `Django` `ExpressJS`
 - **Frameworks:** `Microsoft SQL Server` `Oracle Database` `phpMyAdmin Database` `MongoDB`| `Stored Procedure` `PL/SQL` 
-- **Technologies:** `Git` `GitHub` `Jira` `UI/UX Design` `Figma` `Docker` `AWS` `Servlets` `Linux` `JSP` `JDBC` `EJB`  
+- **Technologies:** `Git` `GitHub` `Jira` `ServiceNow` `Docker` `AWS` `Servlets` `Linux` `JSP` `JDBC` `EJB`  
 
 <p align="center">
     <a href="">
