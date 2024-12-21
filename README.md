@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **New Technologies**
 
-- 👨‍💻 All of my projects are available at [https://kajamoideen.vercel.app/](https://kajamoideen.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://kajamoideen.vercel.app" target="_blank">https://kajamoideen.vercel.app</a>
 
 - 💬 Ask me about **Java, MYSQL, Springboot Etc.**
 
