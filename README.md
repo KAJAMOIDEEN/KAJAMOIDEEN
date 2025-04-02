@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working as **Software Engineer**
 
-- 🌱 I’m currently learning **New Technologies**
-
 - 👨‍💻 All of my projects are available at <a href="https://kajamoideen.vercel.app" target="_blank">https://kajamoideen.vercel.app</a>
 
 - 💬 Ask me about **Java, MYSQL, Springboot Etc.**
