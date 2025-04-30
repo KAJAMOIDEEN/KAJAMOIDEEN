@@ -22,7 +22,7 @@
 
 ## Reach Me
 - **Website:** [kajamoideen.vercel.app](https://kajamoideen.vercel.app/)
-- **Email:** kajamoideenkj@gmail.com / kajamoideenkj@gmail.com
+- **Email:** kajamoideenkj@gmail.com 
 - **LinkedIn** [in/kajamoideenkj/](https://linkedin.com/in/kajamoideenkj/)
   
 <p align="center">
